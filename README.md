@@ -1,1 +1,2 @@
-# Bayesian-filter
+See Bayesian Estimation.ipynb for details.
+
